@@ -2,17 +2,17 @@
 Facebook post scraping + sentiment analysis
 
 ## Code
-run_scraper.ipynb
+- run_scraper.ipynb
 
 ## Output
-datafile.csv
+- datafile.csv
 
 # Input files
-cookies.txt
-fb_data1.csv
-fb_data2.csv
-fb_data3.csv
-fb_data4.csv
+- cookies.txt
+- fb_data1.csv
+- fb_data2.csv
+- fb_data3.csv
+- fb_data4.csv
 
 # Environment file
-environment.yml
+- environment.yml
