@@ -7,12 +7,12 @@ Facebook post scraping + sentiment analysis
 ## Output
 - datafile.csv
 
-# Input files
+## Input files
 - cookies.txt
 - fb_data1.csv
 - fb_data2.csv
 - fb_data3.csv
 - fb_data4.csv
 
-# Environment file
+## Environment file
 - environment.yml
