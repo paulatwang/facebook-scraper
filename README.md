@@ -2,7 +2,7 @@
 Facebook post scraping + sentiment analysis
 
 ## Code
-- run_scraper.ipynb
+- run_code.ipynb
 
 ## Output
 - datafile.csv
